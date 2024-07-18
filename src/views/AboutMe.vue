@@ -28,7 +28,7 @@ export default {
 <style lang="scss">
 h1 {
   text-align: center;
-  margin: 4% 0;
+  margin: 4% 0 2% 0;
 }
 
 .about-me-inside {

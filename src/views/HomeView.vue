@@ -11,10 +11,10 @@
     <img class="avatar" @click="collapse()" src="../pic/avatar.jpg" alt="">
     <div class="header-right">
       <RouterLink to="/WorkExperience">
-        <h3 class="titleh3">工作經歷</h3>
+        <h3 class="titleh3">學歷經歷</h3>
       </RouterLink>
-      <RouterLink to="/LogIn">
-        <h3 class="titleh3">登入</h3>
+      <RouterLink to="/Project">
+        <h3 class="titleh3">專題作品</h3>
       </RouterLink>
     </div>
   </div>
@@ -106,7 +106,7 @@ export default {
 </script>
 
 <style lang="scss">
-body{
+>body{
   overflow: hidden;
 }
 .header {
