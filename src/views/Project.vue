@@ -4,7 +4,7 @@
 
   <div class="project">
     <div class="project-logo">
-      <p>⬇️⬇️⬇️⬇️這是我們的網站⬇️⬇️⬇️⬇️</p>
+      <p>⬇️⬇️這是我們的網站⬇️⬇️</p>
       <a href=" https://tibamef2e.com/cid101/g3/"><img src="../pic/project-logo.png" alt=""></a>
     </div>
     <div class="project-content">

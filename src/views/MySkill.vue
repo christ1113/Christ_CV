@@ -51,7 +51,7 @@ h1 {
       &:nth-of-type(1) {
         position: relative;
         &::before {
-          content: url('../src/pic/html5.png');
+          content: url('../pic/html5.png');
           left: 6%;
           top: -50%;
           position: absolute;
@@ -61,7 +61,7 @@ h1 {
       &:nth-of-type(2) {
         position: relative;
         &::before {
-          content: url('../src/pic/javascript.png');
+          content: url('../pic/javascript.png');
           left: 6%;
           top: -50%;
           position: absolute;
@@ -71,7 +71,7 @@ h1 {
       &:nth-of-type(3) {
         position: relative;
         &::before {
-          content: url('../src/pic/bootstrap.png');
+          content: url('../pic/bootstrap.png');
           left: 6%;
           top: -50%;
           position: absolute;
@@ -81,7 +81,7 @@ h1 {
       &:nth-of-type(4) {
         position: relative;
         &::before {
-          content: url('../src/pic/iview.png');
+          content: url('../pic/iview.png');
           left: 6%;
           top: -50%;
           position: absolute;
@@ -99,7 +99,7 @@ h1 {
       &:nth-of-type(1) {
         position: relative;
         &::before {
-          content: url('../src/pic/vue.png');
+          content: url('../pic/vue.png');
           left: 6%;
           top: -50%;
           position: absolute;
@@ -109,7 +109,7 @@ h1 {
       &:nth-of-type(2) {
         position: relative;
         &::before {
-          content: url('../src/pic/github.png');
+          content: url('../pic/github.png');
           left: 6%;
           top: -50%;
           position: absolute;
@@ -119,7 +119,7 @@ h1 {
       &:nth-of-type(3) {
         position: relative;
         &::before {
-          content: url('../src/pic/php.png');
+          content: url('../pic/php.png');
           left: 6%;
           top: -50%;
           position: absolute;
@@ -129,7 +129,7 @@ h1 {
       &:nth-of-type(4) {
         position: relative;
         &::before {
-          content: url('../src/pic/mysql.png');
+          content: url('../pic/mysql.png');
           left: 6%;
           top: -50%;
           position: absolute;
